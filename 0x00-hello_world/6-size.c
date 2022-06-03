@@ -4,7 +4,7 @@
  *
  * Return: always 0
  */
-int main(void)
+int main(void) /* main - prints output*/
 	/* main - prints output*/
 {
 	/* main - prints output*/
