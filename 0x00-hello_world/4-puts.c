@@ -2,7 +2,7 @@
 /*
  * starts in main
 */
-int main(void)
+int main(void) /* main prints output */
 /* main prints output */
 {
 	/* main- prints output */
