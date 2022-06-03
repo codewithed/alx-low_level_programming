@@ -3,7 +3,9 @@
 #include <time.h>
 
 /* more headers goes there */
-/* betty style doc for function main goes there */
+/**
+*main - takes int n as input and prints wheter it is positive, zero or negative
+*/
 
 int main(void)
 {
