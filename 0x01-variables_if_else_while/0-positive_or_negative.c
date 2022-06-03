@@ -4,8 +4,7 @@
 
 /* more headers goes there */
 /**
-* main - takes int n as input and prints wheter it is positive, zero or negative
-* main returns nothing
+*main - takes int n as input and prints wheter it is positive, zero or negative
 */
 
 int main(void)
