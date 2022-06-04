@@ -2,10 +2,12 @@
 #include <stdlib.h>
 #include <time.h>
 
-/* more headers goes there */
+
 /**
 *main - takes int n as input and prints wheter it is positive, zero or negative
-*/
+*
+* Return: Always Zero (Success)
+
 
 int main(void)
 {
