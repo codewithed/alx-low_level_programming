@@ -3,7 +3,7 @@
 
 /**
  *main - starts here
- * the alphabet in lowercase
+ *returns the alphabet in lowercase
  */
 
 int main(void)
@@ -13,7 +13,7 @@ int main(void)
 	for (i = 'a'; i <= 'z'; i++)
 	{
 		putchar(i);
-		putchar('\n');
 	}
+	putchar('\n');
 	return (0);
 }
