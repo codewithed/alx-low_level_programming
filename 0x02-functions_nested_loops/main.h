@@ -17,5 +17,8 @@ int _islower(int c);
 
 /* returns 1 if c is either uppercase or lowercase */
 int _isalpha(int c);
+
+/* prints the sign of a number */
+int print_sign(int n);
 #endif 
   
