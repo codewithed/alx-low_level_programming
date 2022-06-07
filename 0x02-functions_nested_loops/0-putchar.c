@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * main - prints '-putchar'
+ * main - Start of program
  * Return: Always 0 (Success)
  */
 
@@ -14,7 +14,6 @@ int main(void)
 }
 
 /**
- * printword prints "_putchar" and a new line
  * Return: Void
  */
 /* Prints the word "_putchar"*/
@@ -23,7 +22,7 @@ int printword(void)
 	int i;
 	char c;
 	
-	for ( i = 0; i < strlen(word); i++)
+	for (i = 0; i < strlen(word); i++)
 	{
 		c = word[i];
 		_putchar(c);
