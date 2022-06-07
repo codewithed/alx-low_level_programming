@@ -7,28 +7,17 @@
  * Return: Always 0 (Success)
  */
 
-int printword(void);
 int main(void)
 {
-	printword();
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
 	return (0);
 }
-
-/**
- * printword - prints the characters of a string 'word'
- * Return: Void
- */
-/* Prints the word "_putchar"*/
-int printword(void)
-{
-	int i;
-	char c;
-	int len = strlen(word);
-
-	for (i = 0; i < len; i++)
-	{
-		c = word[i];
-		_putchar(c);
-	}
-	return (0);
-}
+	
