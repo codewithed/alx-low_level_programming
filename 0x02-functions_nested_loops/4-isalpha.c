@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _islower - main function
+ * _isalpha - main function
  *
  * @c: character to compare
  *
