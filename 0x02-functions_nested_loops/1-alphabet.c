@@ -15,7 +15,12 @@ int main(void)
 	return (0);
 }
 
-/* Returns: void*/
+
+/**
+ * print_alphabet - prints alphabet in lowercase
+ * Returns: void
+ */
+
 void print_alphabet(void)
 {
 	char i;
@@ -23,5 +28,6 @@ void print_alphabet(void)
 	for (i = 'a'; i < 'z'; i++)
 	{
 		_putchar(i);
+		_putchar('\n');
 	}
 }
