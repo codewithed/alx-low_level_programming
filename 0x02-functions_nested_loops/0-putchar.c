@@ -15,6 +15,7 @@ int main(void)
 }
 
 /**
+ * printword - prints the characters of a string 'word'
  * Return: Void
  */
 /* Prints the word "_putchar"*/
