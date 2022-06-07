@@ -1,6 +1,5 @@
 #include "main.h"
 
-
 /**
  * main - Start of program
  * Return: Always 0 (Success)
