@@ -7,7 +7,7 @@
  * Return: Always 0 (Success)
  */
 
-__attribute__ int main(void)
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
@@ -20,4 +20,3 @@ __attribute__ int main(void)
 	_putchar('\n');
 	return (0);
 }
-	
