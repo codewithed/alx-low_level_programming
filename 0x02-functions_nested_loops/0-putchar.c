@@ -1,7 +1,4 @@
-
 #include "main.h"
-#include <string.h>
-
 /**
  * main - Start of program
  * Return: Always 0 (Success)
