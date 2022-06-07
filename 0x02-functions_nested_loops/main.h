@@ -11,5 +11,8 @@ void print_alphabet(void);
 
 /* prints the alphabet 10 times*/
 void print_alphabet_x10(void);
+
+/* checks if a char is lowercase */
+int _islower(int c);
 #endif 
   
