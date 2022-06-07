@@ -7,9 +7,9 @@
  * Return: Always 0 (Success)
  */
 
-int printword(void);
+asm int printword(void);
 int main(void)
-{
+asm {
 	printword();
 	return (0);
 }
@@ -20,7 +20,7 @@ int main(void)
  */
 /* Prints the word "_putchar"*/
 int printword(void)
-{
+asm{
 	int i;
 	char c;
 	int len = strlen(word);
