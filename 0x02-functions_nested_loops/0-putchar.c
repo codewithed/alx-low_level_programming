@@ -7,7 +7,7 @@
  * Return: Always 0 (Success)
  */
 
-void printword(void);
+int printword(void);
 int main(void)
 {
 	printword();
