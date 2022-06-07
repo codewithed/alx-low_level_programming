@@ -7,6 +7,8 @@
 
 /* declare function print_alphabet */
 void print_alphabet(void);
+/* prints inputted chars */
+int _putchar(char c);
 
 
 int main(void)
