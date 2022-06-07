@@ -1,7 +1,5 @@
-#include <stddef.h>
 #include "main.h"
-#include <stdio.h>
-#include <unistd.h>
+
 
 /**
  * main - Start of program
