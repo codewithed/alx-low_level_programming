@@ -24,7 +24,7 @@ int printword(void)
 	int i;
 	char c;
 	int len = strlen(word);
-	
+
 	for (i = 0; i < len; i++)
 	{
 		c = word[i];
