@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "main.h"
+#include <string.h>
 
 /**
  * main - Start of program
@@ -21,8 +22,9 @@ int printword(void)
 {
 	int i;
 	char c;
+	int len = strlen(word);
 	
-	for (i = 0; i < strlen(word); i++)
+	for (i = 0; i < len; i++)
 	{
 		c = word[i];
 		_putchar(c);
