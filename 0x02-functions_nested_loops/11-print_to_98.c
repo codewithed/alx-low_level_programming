@@ -4,7 +4,7 @@
 
 /**
  * print_to_98 - prints numbers from n to 98
- *
+ * n -an int
  * Returns: Void
  *
  */
